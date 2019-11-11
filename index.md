@@ -7,4 +7,4 @@
 
 ## Политика конфиденциальности
 
-[Скачать](https://github.com/AlekseevAV/math_train/assets/docs/privacy_policy.pdf)
+[Скачать](/assets/docs/privacy_policy.pdf)
